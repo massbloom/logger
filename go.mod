@@ -1,4 +1,4 @@
-module logger
+module github.com/massbloom/logger
 
 go 1.21.3
 
